@@ -35,3 +35,33 @@ The dataset used for this project contains historical credit card transactions. 
    ```bash
    git clone https://github.com/your_username/credit_card_fraud_detection.git
    cd credit_card_fraud_detection
+
+
+
+# Machine Learning Project README
+
+## Overview
+Provide an overview of your machine learning project, including its purpose, goals, and any relevant background information.
+
+## Table of Contents
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Dependencies
+List all dependencies required to run your code. Be sure to include specific versions if necessary.
+
+- Python (version X.X)
+- scikit-learn (version X.X): For machine learning algorithms
+- matplotlib (version X.X): For plotting graphs and visualizations
+- seaborn (version X.X): For statistical data visualization
+
+## Installation
+Provide instructions on how to install the necessary dependencies and set up the environment to run your code. Include any additional steps if required.
+
+```bash
+pip install scikit-learn matplotlib seaborn
+# Add other dependencies as needed
