@@ -38,7 +38,7 @@ The dataset used for this project contains historical credit card transactions. 
 
 
 
-# Machine Learning Project README
+# Customer Churn Credit Scoring Project README
 
 ## Overview
 Provide an overview of your machine learning project, including its purpose, goals, and any relevant background information.
