@@ -65,3 +65,24 @@ Provide instructions on how to install the necessary dependencies and set up the
 ```bash
 pip install scikit-learn matplotlib seaborn
 # Add other dependencies as needed
+
+
+
+# Spam SMS Detection
+
+This project aims to classify SMS messages as either spam or non-spam (ham) using machine learning algorithms. The dataset used in this project contains labeled SMS messages indicating whether they are spam or not.
+
+### Requirements
+
+- Python 3.x
+- Libraries:
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+
+### Installation
+
+1. Clone the repository:
+
